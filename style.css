@@ -1,0 +1,153 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+/* Header */
+.first-block {
+ background-image: url('img/Untitled.png');
+ height: 100vh;
+ width: 100%;
+ background-size: cover;
+}
+.lol{
+    color: rgb(255, 0, 0);
+  margin-top: 0px;
+  margin-bottom: 50px;
+  width: 100%;
+  text-align: center;
+}
+
+.lol1{
+    color: rgb(255, 0, 0);
+  margin-top: 0px;
+  margin-bottom: 50px;
+  width: 100%;
+  text-align: center;
+}
+
+
+/* header {
+    position: absolute;
+    left:0;
+    right:0;
+    padding:20px 50px;
+}
+nav {
+    color: #fff;
+}
+nav ul {
+    display: flex;
+    list-style: none;
+}
+nav ul li {
+    padding: 10px;
+} */
+
+/* .right {
+    margin-left: auto;
+}
+nav a, 
+nav a:visited {
+    color: #fff;
+    text-decoration: none;
+    font-size: 24px;
+} */
+
+/* header-section */
+/* .header-section {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+.header-section h1 {
+    font-size: 48px;
+}
+.header-section h2 {
+    font-size: 32px;
+} 
+
+.header-section button {
+    width: auto;
+    padding: 10px 20px;
+    border-radius: 5px;
+    background-color:#2196F3;
+    color: #fff;
+    font-size: 20px;
+    margin-top: 20px;
+    border: none;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+} */
+
+/* second section */
+/* 
+.second-section {
+    padding: 70px 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.second-section h4 {
+    text-align: center;
+    line-height: 24px;
+    padding: 26px;
+}
+.second-section .underline-block {
+    width: 150px;
+    height: 2px;
+    background-color: rgb(255, 0, 0);
+}
+.photo-list {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    list-style: none;
+}
+
+.photo-list li {
+    margin: 10px;
+    height: 200px;
+    background-size: cover;
+    background-position: center;
+}
+.photo-list .first_img{
+    width: 50%;
+    background-image: url('img/coast.jpg');
+}
+.photo-list .second_img{
+    width: 40%;
+    background-image: url('img/island.jpg');
+}
+.photo-list .third_img{
+    width: 40%;
+    background-image: url('img/balloon.jpg');
+}
+.photo-list .fourth_img{
+    width: 50%;
+    background-image: url('img/mountain.jpg');
+}
+
+footer {
+    padding: 70px 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+footer ul {
+    display: flex;
+    list-style: none;
+}
+footer ul li {
+    padding: 10px;
+} */
